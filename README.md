@@ -1,4 +1,5 @@
-# Especial Project for Data Structure and Algorithm course instructed by [Dr.Alireza Bagheri](https://aut.ac.ir/cv/2072/Alireza%20Bagheri)
+## Especial Project for Data Structure and Algorithm course 
+instructed by [Dr.Alireza Bagheri](https://aut.ac.ir/cv/2072/Alireza%20Bagheri)
 ## Navigation-Project
 Using Dijkstra Algorithm to implement a navigation project
 
@@ -11,9 +12,9 @@ Using Dijkstra Algorithm to implement a navigation project
  
  ### Output
  
-[image](https://user-images.githubusercontent.com/61980014/188209155-9758a04e-88b3-4dc9-8cd2-f5d1891ef95f.png)
+![image](https://user-images.githubusercontent.com/61980014/188209155-9758a04e-88b3-4dc9-8cd2-f5d1891ef95f.png)
 
-[image](https://user-images.githubusercontent.com/61980014/188209171-050edf6e-14ae-412c-97a1-7a6c7d15a5b8.png)
+![image](https://user-images.githubusercontent.com/61980014/188209171-050edf6e-14ae-412c-97a1-7a6c7d15a5b8.png)
 
  
  
